@@ -18,7 +18,6 @@
 <tr><td><select name="branch">
 <option value="cba">CBA</option>
 <option value="bda">BDA</option>
-<option value="ma">MA</option>
 
 </select>
 </td></tr>
